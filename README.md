@@ -1,6 +1,6 @@
 # Capstone Proposal   (w/ Research & Planning Log) 
 
-## By Sam Majerus.  (File created 12/2/2022)
+## By Sam Majerus  (File created 12/2/2022)
 
 #### This repo contains my Capstone Proposal and "Research & Planning Log".   
 
@@ -22,8 +22,12 @@
   * 11:53:  Add Free 'hair dryer' asset to "My Assets" [for Unity] 
   * 12:09:  Add free 'simplistic low poly nature' asset pack to "My Assets" 
 
-* [12:30-13:10:  Adding links to job postings I saved yesterday to my Job Tracker, for further evaluation later.]  
-* 
+<!-- * [12:30-13:10:  Added links to job postings I saved yesterday to my Job Tracker, for further evaluation later.]   -->
+
+* 13:40:  Attempt to fix apparent issues/missing assets (i.e. those that were not included in Export package) 
+* 14:00:  Copying 'csharpteamweek' project from PlasticSCM workspace directory to UnityHub's ProjectTemplates folder. 
+* 14:30:  Attempting to create a new project in Unity Hub using the newly-copied root directory as the template. 
+* 14:__:  
 
 
 

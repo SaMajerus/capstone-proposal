@@ -1,4 +1,4 @@
-### [Name of Student]
+### Sam Majerus
 
 ### [Name of Project] 
 
