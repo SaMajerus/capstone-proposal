@@ -15,7 +15,9 @@
 * 9:00:  Copy down Proposal template (in 'capstone-proposal.md') 
 * 9:15-30:  Create GitHub repo.  Initialize local repo, make inital commit, push to remote repo. 
 * 9:30-40:  Adjusted the formatting of this README, made edits. 
-* 9:40: 
+* 9:45:  Open Unity editor, export C# Team Week project. 
+* 10:00:  Create and open new Unity project (with '3D' template).  
+* 10:15:  Import the exported C# Team Week project.   [Break for tea, stretching follows]
 
 
 <!-- 
