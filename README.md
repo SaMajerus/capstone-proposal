@@ -27,7 +27,7 @@
 * 13:40:  Attempt to fix apparent issues/missing assets (i.e. those that were not included in Export package) 
 * 14:00:  Copying 'csharpteamweek' project from PlasticSCM workspace directory to UnityHub's ProjectTemplates folder. 
 * 14:30:  Attempting to create a new project in Unity Hub using the newly-copied root directory as the template. 
-* 14:__:  
+* 14:40:  Deleting failed project attempts,  looking further into process of adding a Custom Template for Unity.   
 
 
 
