@@ -21,7 +21,9 @@
 * 11:45:  Searching Unity Asset Store for backpack leaf-blower, leaf/leaves, etc. 
   * 11:53:  Add Free 'hair dryer' asset to "My Assets" [for Unity] 
   * 12:09:  Add free 'simplistic low poly nature' asset pack to "My Assets" 
-<!-- * 1x:xx:  xxx -->
+
+* [12:30-13:10:  Adding links to job postings I saved yesterday to my Job Tracker, for further evaluation later.]  
+* 
 
 
 
