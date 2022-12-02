@@ -24,10 +24,30 @@
 
 <!-- * [12:30-13:10:  Added links to job postings I saved yesterday to my Job Tracker, for further evaluation later.]   -->
 
-* 13:40:  Attempt to fix apparent issues/missing assets (i.e. those that were not included in Export package) 
+* 13:40:  Attempt to fix apparent issues/missing assets (i.e. those that were not included in Export package) --
 * 14:00:  Copying 'csharpteamweek' project from PlasticSCM workspace directory to UnityHub's ProjectTemplates folder. 
 * 14:30:  Attempting to create a new project in Unity Hub using the newly-copied root directory as the template. 
-* 14:40:  Deleting failed project attempts,  looking further into process of adding a Custom Template for Unity.   
+* 14:40:  Deleting failed project attempts,  looking further into process of adding a Custom Template for Unity.   ('csharpteamweek' didn't show up as a Template option.)
+* 15:15:  Creating new project file with generic 3D template (since I can't figure out custom templates).  
+* 15:20:  Using Package Manager to import select Assets from the two newly-added Asset Packs.  
+* 15:25:  Importing the 'csharpteamweek' project's package.  
+* 15:30:  Saved the project, closing Unity Editor. (Import of the Team Week project's exported package was successful.)   [Updating activity log] 
+* 15:45:  Beginning work on Capstone Proposal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35,13 +55,6 @@
 <!-- 
 * 1:20: implement react-spring library in sample project 
 -->
-
-
-
-
-
-
-
 
 
 
