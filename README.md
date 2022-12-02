@@ -17,7 +17,13 @@
 * 9:30-40:  Adjusted the formatting of this README, made edits. 
 * 9:45:  Open Unity editor, export C# Team Week project. 
 * 10:00:  Create and open new Unity project (with '3D' template).  
-* 10:15:  Import the exported C# Team Week project.   [Break for tea, stretching follows]
+* 10:15:  Import the exported C# Team Week project.   [On break for tea, stretching, ...]
+* 11:45:  Searching Unity Asset Store for backpack leaf-blower, leaf/leaves, etc. 
+  * 11:53:  Add Free 'hair dryer' asset to "My Assets" [for Unity] 
+  * 12:09:  Add free 'simplistic low poly nature' asset pack to "My Assets" 
+<!-- * 1x:xx:  xxx -->
+
+
 
 
 <!-- 
