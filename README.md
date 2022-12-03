@@ -33,7 +33,7 @@
 * 15:25:  Importing the 'csharpteamweek' project's package.  
 * 15:30:  Saved the project, closing Unity Editor. (Import of the Team Week project's exported package was successful.)   [Updating activity log] 
 * 15:45:  Beginning work on Capstone Proposal. 
-
+* 16:45:  Pushing this entry and the Proposal document to remote repo.  
 
 
 
