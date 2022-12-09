@@ -42,6 +42,11 @@
 * 10:05:  Researching how to start/add my own PlasticSCM repo (for Source Control) for the Project. 
 <!-- * 10:30:  Researching how to change the gameplay environment without accidentally interfering with the player's current HUD and Menu scenes.  -->
 * 10:30:  Figuring out how to edit Scripts in VS Code. 
+* 10:45:  Determining next steps
+* 11:15:  Start re-familiarizing myself with the C# code from Team-Week project 
+* 11:40:  Figure out how to replace 'keyboard-gun' asset/object with Hair-dryer asset/object.  (While keeping the same scripts, at least initially.)
+  * 11:55:  Continuing above investigation in Unity Editor instead of VS Code (for now) 
+* 12:10:  Remaking Unity project (due to root folder naming issue that prevents me from navigating back to it in Cmd-Line).
 
 
 
