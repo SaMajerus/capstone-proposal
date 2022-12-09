@@ -34,10 +34,14 @@
 * 15:30:  Saved the project, closing Unity Editor. (Import of the Team Week project's exported package was successful.)   [Updating activity log] 
 * 15:45:  Beginning work on Capstone Proposal. 
 * 16:45:  Pushing this entry and the Proposal document to remote repo.  
+<br><br>
 
 
 
-
+### Friday, 12/09
+* 10:05:  Researching how to start/add my own PlasticSCM repo (for Source Control) for the Project. 
+<!-- * 10:30:  Researching how to change the gameplay environment without accidentally interfering with the player's current HUD and Menu scenes.  -->
+* 10:30:  Figuring out how to edit Scripts in VS Code. 
 
 
 
