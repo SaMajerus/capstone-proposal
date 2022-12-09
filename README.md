@@ -51,8 +51,8 @@
 
 * 14:15:  Initializing/setting up Local and Remote Git repos (with '.gitignore' imported from Team-Week project) for the Unity project. 
 * 14:40:  Continuing task from 1140. 
-<!-- * 15:15:  Slight detour to finish first of two job applications. -->
-* 15:__:  
+<!-- * 15:15:  Slight detour to finish -- and submit -- first of two job applications. -->
+* 15:40:  Continuing task from 1140. 
 
 
 
