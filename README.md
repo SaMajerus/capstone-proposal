@@ -47,7 +47,9 @@
 * 11:40:  Figure out how to replace 'keyboard-gun' asset/object with Hair-dryer asset/object.  (While keeping the same scripts, at least initially.)
   * 11:55:  Continuing above investigation in Unity Editor instead of VS Code (for now) 
 * 12:10:  Remaking Unity project (due to root folder naming issue that prevents me from navigating back to it in Cmd-Line).
+* 13:00:  Lunch break
 
+<!-- * 13:30/14:00:  Initializing/setting up Local and Remote Git repos (with '.gitignore' imported from Team-Week project).  -->
 
 
 
