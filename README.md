@@ -49,7 +49,7 @@
 * 12:10:  Remaking Unity project (due to root folder naming issue that prevents me from navigating back to it in Cmd-Line).
 * 13:00:  Lunch break
 
-<!-- * 13:30/14:00:  Initializing/setting up Local and Remote Git repos (with '.gitignore' imported from Team-Week project).  -->
+* 14:15:  Initializing/setting up Local and Remote Git repos (with '.gitignore' imported from Team-Week project) for the Unity project. 
 
 
 
