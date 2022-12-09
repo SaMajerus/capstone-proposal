@@ -50,6 +50,7 @@
 * 13:00:  Lunch break
 
 * 14:15:  Initializing/setting up Local and Remote Git repos (with '.gitignore' imported from Team-Week project) for the Unity project. 
+* 14:40:  Continuing task from 1140. 
 
 
 
