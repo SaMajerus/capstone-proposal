@@ -53,6 +53,8 @@
 * 14:40:  Continuing task from 1140. 
 <!-- * 15:15:  Slight detour to finish -- and submit -- first of two job applications. -->
 * 15:45:  Continuing task from 1140. 
+* 16:25:  The Hair-dryer -- I mean, Leaf-blower -- is now positioned so that it's on-top-of/clipping-into the Keyboard-gun's location in space (in the player's virtual hands).    [WIP:   task from 1140, part 2; switch out Keyboard object with the Hair-dryer, keeping the existing scripts (applied to the object) as they are for now.]
+
 
 
 
