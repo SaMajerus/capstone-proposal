@@ -55,6 +55,27 @@
 <!-- * 15:15:  Slight detour to finish -- and submit -- first of two job applications. -->
 * 15:45:  Continuing task from 1140. 
 * 16:25:  The Hair-dryer -- I mean, Leaf-blower -- is now positioned so that it's on-top-of/clipping-into the Keyboard-gun's location in space (in the player's virtual hands).    [WIP:   task from 1140, part 2; switch out Keyboard object with the Hair-dryer, keeping the existing scripts (applied to the object) as they are for now.]
+<br><br>
+
+
+
+### Tuesday, 12/13 
+* 14:45:  Exploring Hierarchy of Game Scene, comparing/contrasting Hairdryer Asset's components with that of the ''Keyboard-gun''.   
+* 15:38:  Looked up the definition of 'LOD' in the context of Unity 3D. [It's short for 'Level of Detail'.]   
+* 15:40-16:30:  (Same as 1445.) 
+
+* 16:35:  Doing more research on how I can swap one Asset for another in Unity (without having to re-attach Scripts/other components to the new Asset.) 
+* 16:45:  Reached out to Skylan  (teammate from the C# Team-Week project)  for tips/suggestions/help on how to proceed with Asset swapping  [especially given how we structured our 'Player' prefab hierarchy-wise in that project].  
+* 17:10:  Searched Asset Store for Free particle effects (i.e. Wind/breeze effects) and/or physics "materials" (i.e. 'block' of air, blast of air, air/wind gust effects and/or physics, ''parcel of air'').  
+  - Even after 8 minutes of searching intently, I found nothing that matching what I want. 
+    * There <em>was</em> a "Low Poly Wind Effects" package, <em>but</em> it costs $15, which is ridiculous!    (If I can't manage to improvise with the 3D Physics that Unity provides by default, <em>I guess</em> I'll buy it.) 
+<br><br>
+
+
+
+### Wednesday, 12/14 
+* 10:30:  Doing Log entry for 12/13 (since I forgot to yesterday). 
+* 11:__:  
 
 
 
@@ -63,12 +84,7 @@
 
 
 
-
-
-
-
-
-<!-- 
+<!-- [Example entry]
 * 1:20: implement react-spring library in sample project 
 -->
 
