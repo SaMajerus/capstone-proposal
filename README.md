@@ -75,8 +75,10 @@
 
 ### Wednesday, 12/14 
 * 10:30:  Doing Log entry for 12/13 (since I forgot to yesterday). 
-* 11:__:  
-
+<!-- * 11:10:  Formatting edits in this document.  -->
+* 11:30:  Attaching components (which were attached to the Keyboard when I deleted it) to 'Hairdryer' object/Asset. 
+  -Yesterday, before deleting the Keyboard object, I went through and took screenshots of the components attached to it. (This ensures that I know exactly what to attach to the Hairdryer object/Asset.) 
+* 11/12/13:__:  
 
 
 
