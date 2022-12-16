@@ -92,13 +92,15 @@
     * Hairdryer (IRL): 
       - Full tube/body length=  7.5in 
       - Length from nozzle-end to back-of-handle=  6.0in 
-      - Nozzle diameter=  2.25in.  (4.5in-long taper down from (the widest-point's) 3.75in diameter.) 
+      <!-- - Nozzle diameter=  2.25in.  (4.5in-long taper down from (the widest-point's) 3.75in diameter.)  -->
     * Leafblower (IRL): 
       - Full tube length=  34in 
       - Length from nozzle-end to back-of-handle=  27in 
-      - Nozzle diameter=  2.75in.  (2.75in-long taper down from 3.75in (tube-) diameter.) 
+      <!-- - Nozzle diameter=  2.75in.  (2.75in-long taper down from 3.75in (tube-) diameter.)  -->
+    * 34/7.5 ~= 27/6 ~= 4.5   
+      - [(Either of the Hairdryer's length values) x 4.5  ~=  (Corresponding length value for IRL-leafblower)].
 
-* 13/14:__:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
+* 15:05:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
 
 
 
