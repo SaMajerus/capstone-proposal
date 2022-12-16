@@ -87,18 +87,18 @@
 * 9:45-10:00:   Researching how to set/change physical size attributes of an Asset/Game-Object in Unity 3D editor. 
   - I want to take the length of the Hairdryer's main body and stretch/increase it by a factor of 1.5.  (Then it'll at least resemble an actual Leaf-blower's tube.)  
 * 10:15-30:   Following along with tutorial I found.  (Link: https://www.youtube.com/watch?v=XZnmMGz_VyU) 
-* 10:30-10/11:__:   Comparing sizes of my IRL Leafblower's tube-assembly with that of an IRL hairdryer.  (The dryer that I'm using for this comparison of sizes is [in my estimation] approximately-equal to the size of the GameObject's real-life counterpart.)  
+* 10:30-11:20:   Comparing sizes of my IRL Leafblower's tube-assembly with that of an IRL hairdryer.  (The dryer that I'm using for this comparison of sizes is [in my estimation] approximately-equal to the size of the GameObject's real-life counterpart.)  
   - Notes--  
-    * Blower: 
-      - Full tube length=  __ inches.
-      - Length from nozzle-end to handle=  __ inches.
-      - Nozzle diameter=  __ inches. 
     * Hairdryer (IRL): 
-      - Full tube/body length=  __ inches.
-      - Length from nozzle-end to handle=  __ inches. 
-      - Nozzle diameter=  __ inches. 
+      - Full tube/body length=  7.5in 
+      - Length from nozzle-end to back-of-handle=  6.0in 
+      - Nozzle diameter=  2.25in.  (4.5in-long taper down from (the widest-point's) 3.75in diameter.) 
+    * Leafblower (IRL): 
+      - Full tube length=  34in 
+      - Length from nozzle-end to back-of-handle=  27in 
+      - Nozzle diameter=  2.75in.  (2.75in-long taper down from 3.75in (tube-) diameter.) 
 
-* 10/11:__:   Continuing to follow along with tutorial  (taking into account the factors determined from the measurements noted above).
+* 11:30:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
 
 
 
