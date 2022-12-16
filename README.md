@@ -77,8 +77,17 @@
 * 10:30:  Doing Log entry for 12/13 (since I forgot to yesterday). 
 <!-- * 11:10:  Formatting edits in this document.  -->
 * 11:30:  Attaching components (which were attached to the Keyboard when I deleted it) to 'Hairdryer' object/Asset. 
-  -Yesterday, before deleting the Keyboard object, I went through and took screenshots of the components attached to it. (This ensures that I know exactly what to attach to the Hairdryer object/Asset.) 
-* 11/12/13:__:  
+  -Yesterday, before deleting the Keyboard object, I went through and took screenshots of the components attached to it. (This ensures that I know exactly what to attach to the Hairdryer object/Asset.)  
+<!-- * 11:55:  (Went to Lunch.) -->
+<br><br>
+
+
+
+### Friday, 12/16
+* 9:45:  Researching how to set/change physical size attributes of an Asset/Game-Object in Unity 3D editor. 
+  - I want to make the length of the Hairdryer's main body about double what it is now  (so that it resembles an actual Leaf-blower's tube).  
+* 10:__:  
+
 
 
 
