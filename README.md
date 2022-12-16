@@ -101,6 +101,7 @@
       - [(Either of the Hairdryer's length values) x 4.5  ~=  (Corresponding length value for IRL-leafblower)].
 
 * 15:05:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
+* 15:35:   Just discovered that most of the work I've done today in Unity Editor is for naught -- the techniques used in the tutorial don't work for me apparently... (or, if it works still, I'm doing something wrong and I don't know what). 
 
 
 
