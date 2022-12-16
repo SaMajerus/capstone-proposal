@@ -86,7 +86,7 @@
 ### Friday, 12/16
 * 9:45-10:00:   Researching how to set/change physical size attributes of an Asset/Game-Object in Unity 3D editor. 
   - I want to take the length of the Hairdryer's main body and stretch/increase it by a factor of 1.5.  (Then it'll at least resemble an actual Leaf-blower's tube.)  
-* 10:15-30:   Following along with tutorial I found.  (Link: https://www.youtube.com/watch?v=XZnmMGz_VyU) 
+<!-- * 10:15-30:   Following along with tutorial I found.  (Link: https://www.youtube.com/watch?v=XZnmMGz_VyU)  -->
 * 10:30-11:20:   Comparing sizes of my IRL Leafblower's tube-assembly with that of an IRL hairdryer.  (The dryer that I'm using for this comparison of sizes is [in my estimation] approximately-equal to the size of the GameObject's real-life counterpart.)  
   - Notes--  
     * Hairdryer (IRL): 
@@ -100,9 +100,12 @@
     * 34/7.5 ~= 27/6 ~= 4.5   
       - [(Either of the Hairdryer's length values) x 4.5  ~=  (Corresponding length value for IRL-leafblower)].
 
-* 15:05:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
-* 15:35:   Just discovered that most of the work I've done today in Unity Editor is for naught -- the techniques used in the tutorial don't work for me apparently... (or, if it works still, I'm doing something wrong and I don't know what). 
+<!-- * 15:05:   Continuing to follow along with tutorial  (taking into account the measurements noted above).   -->
+* 15:35:   Just discovered that the technique used in the tutorial no longer works.   (Doing further research on an alternative.)
 
+* 15:50:   Turns out that changing the scale of the object from the Inspector window does what I want (in this case). 
+* 15:55:   Fiddling with GameObject/Asset Scale values, (and trying to not have the texture turn black again, if at all possible).  
+* 16:__:   
 
 
 
