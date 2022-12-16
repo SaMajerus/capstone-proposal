@@ -84,10 +84,21 @@
 
 
 ### Friday, 12/16
-* 9:45:  Researching how to set/change physical size attributes of an Asset/Game-Object in Unity 3D editor. 
+* 9:45-10:00:   Researching how to set/change physical size attributes of an Asset/Game-Object in Unity 3D editor. 
   - I want to take the length of the Hairdryer's main body and stretch/increase it by a factor of 1.5.  (Then it'll at least resemble an actual Leaf-blower's tube.)  
-* 10:__:  
+* 10:15-30:   Following along with tutorial I found.  (Link: https://www.youtube.com/watch?v=XZnmMGz_VyU) 
+* 10:30-10/11:__:   Comparing sizes of my IRL Leafblower's tube-assembly with that of an IRL hairdryer.  (The dryer that I'm using for this comparison of sizes is [in my estimation] approximately-equal to the size of the GameObject's real-life counterpart.)  
+  - Notes--  
+    * Blower: 
+      - Full tube length=  __ inches.
+      - Length from nozzle-end to handle=  __ inches.
+      - Nozzle diameter=  __ inches. 
+    * Hairdryer (IRL): 
+      - Full tube/body length=  __ inches.
+      - Length from nozzle-end to handle=  __ inches. 
+      - Nozzle diameter=  __ inches. 
 
+* 10/11:__:   Continuing to follow along with tutorial  (taking into account the factors determined from the measurements noted above).
 
 
 
