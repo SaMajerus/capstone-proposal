@@ -98,7 +98,7 @@
       - Length from nozzle-end to back-of-handle=  27in 
       - Nozzle diameter=  2.75in.  (2.75in-long taper down from 3.75in (tube-) diameter.) 
 
-* 11:30:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
+* 13/14:__:   Continuing to follow along with tutorial  (taking into account the measurements noted above).  
 
 
 
