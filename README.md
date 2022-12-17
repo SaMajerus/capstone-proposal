@@ -107,6 +107,17 @@
 * 15:55:   Fiddling with GameObject/Asset Scale values, (and trying to not have the texture turn black again, if at all possible).  
 
 * 16:00:   Modification of basic Hairdryer to be longer (using Scale property) is complete!  
+<br><br>
+
+
+
+### Saturday, 12/17
+
+
+
+
+
+
 
 
 
