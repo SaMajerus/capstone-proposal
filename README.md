@@ -105,7 +105,8 @@
 
 * 15:50:   Turns out that changing the scale of the object from the Inspector window does what I want (in this case). 
 * 15:55:   Fiddling with GameObject/Asset Scale values, (and trying to not have the texture turn black again, if at all possible).  
-* 16:__:   
+
+* 16:00:   Modification of basic Hairdryer to be longer (using Scale property) is complete!  
 
 
 
