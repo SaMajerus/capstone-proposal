@@ -112,8 +112,10 @@
 
 
 ### Monday, 12/19
-* 11:20:  Researching how to implement/apply Physics effects (in general) to GameObjects. 
-* 11/13:__:   
+* 11:20:   Researching how to implement/apply Physics effects (in general) to GameObjects. 
+
+* 15:00:   Adjust existing elements to create 'ground' surface of game, disable 'Enemy Spawner' for now. 
+* 15:40:   Add a Leaf prefab, begin experimenting with Physics. 
 
 
 
