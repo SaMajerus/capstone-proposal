@@ -111,8 +111,9 @@
 
 
 
-### Saturday, 12/17
-
+### Monday, 12/19
+* 11:20:  Researching how to implement/apply Physics effects (in general) to GameObjects. 
+* 11/13:__:   
 
 
 
