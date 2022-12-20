@@ -123,8 +123,11 @@
 
 ### Tuesday, 12/20
 * 9:15:    Seeing if building the Unity project (as it is now) is successful.  [Also want to see if a global 'csproj' or 'json' file gets created as a result (and if so, whether or not the dotnet commands work normally).] 
-* 10:35:   (Giving up on figuring out the whole 'global project-file creation for Unity 3D project (with C# scripts)' thing for now.)
-* 10:45:   Starting work on object(s) for "Physics demo" (for lack of a better term).  
+<!-- * 10:35:   (Partially figured out the whole 'global project-file creation for Unity 3D project (with C# scripts)' thing... I guess...  Putting on back burner for now.) -->
+
+* 10:45:   Starting work on object(s) for "Leaf demo".   
+  - Will experiment/test/fiddle with physics -- and reference tutorials -- as needed. 
+* 11:00:   (Break)
 
 
 
