@@ -127,7 +127,9 @@
 
 * 10:45:   Starting work on object(s) for "Leaf demo".   
   - Will experiment/test/fiddle with physics -- and reference tutorials -- as needed. 
-* 11:10:   (Break)
+  * 11:10:   Experimenting with Rigid-bodies, Colliders, et al.  
+    - 11:25:   Character slides slowly in X-direction (20 seconds(?) in) without any inputs.... no movement inputs stop it.  (On the bright side, the collider/Mesh-collider(?) on Leaf object works -- the player was slowly pushing the leaf prefab along too.)
+* 11:30:   (Break)
 
 
 
