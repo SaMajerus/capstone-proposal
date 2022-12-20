@@ -116,6 +116,7 @@
 
 * 15:00:   Adjust existing elements to create 'ground' surface of game, disable 'Enemy Spawner' for now. 
 * 15:40:   Add a Leaf prefab, begin experimenting with Physics. 
+* 15:45:   Attempting to refresh myself on making a global 'csproj' or 'json' file(??) to hopefully fix the build errors.... (Have to accomplish this <em>before</em> I can proceed with anything else, preferably.)
 
 
 
