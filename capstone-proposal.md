@@ -30,8 +30,8 @@ The player can get an idea for how leaf-blowing works, so that the learning curv
 
 #### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require? 
 * Recordings of leaf-blower i have at home, at different power settings.  (with iPhone -- probably using Voice Memos app)
-* Any-/Every-thing else:  TBD 
+* Any-/Every-thing else:  TBD [To Be Determined]
 
 
 #### Is there anything else you'd like your instructor to know? 
-Couldn't find a Leaf-blower asset, so I'm improvising with a hair-dryer Asset and a backpack Asset (for the character, at least). 
+Couldn't find a Leaf-blower asset, so I'm improvising with a hair-dryer Asset. 
