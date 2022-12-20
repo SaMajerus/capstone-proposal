@@ -137,7 +137,16 @@
   -Will try to fix the Floor's "illegal +x-direction movement(?)" first thing afterwards.   
 
 
-* 13:__:   
+* 14:20:   Resuming work. 
+* 14:35:   Issue I came across earlier (around lunchtime) is fixed.  (The Cube/Floor is now a Static object.)  
+* 14:55:   Investigating multitude of errors from 'TEST.cs' file. 
+
+
+
+
+
+
+
 
 
 
