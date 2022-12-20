@@ -127,13 +127,17 @@
 
 * 10:45:   Starting work on object(s) for "Leaf demo".   
   - Will experiment/test/fiddle with physics -- and reference tutorials -- as needed. 
-  * 11:10:   Experimenting with Rigid-bodies, Colliders, et al.  
-    - 11:25:   Character slides slowly in X-direction (20 seconds(?) in) without any inputs.... no movement inputs stop it.  (On the bright side, the collider/Mesh-collider(?) on Leaf object works -- the player was slowly pushing the leaf prefab along too.)
-* 11:30:   (Break)
+* 11:10:   Experimenting with Rigid-bodies, Colliders, et al.  
+* 11:25:   Investigating why the Character slides slowly in X-direction (20 seconds(?) in) without any inputs.... 
+  -No player-movement inputs stop it.  
+  -At least the collider/Mesh-collider(?) on Leaf object works -- the player can push the leaf by bumping into it. 
+* 11:40:   Turns out that the cube object (a.k.a. the floor) is continuously moving in the positive-X direction  (even though movement in the X/Y/Z directions <em>should</em> be disabled/frozen).  
+
+* 11:55:   Breaking for Lunch
+  -Will try to fix the Floor's "illegal +x-direction movement(?)" first thing afterwards.   
 
 
-
-
+* 13:__:   
 
 
 
