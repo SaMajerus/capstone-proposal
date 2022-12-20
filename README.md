@@ -127,7 +127,7 @@
 
 * 10:45:   Starting work on object(s) for "Leaf demo".   
   - Will experiment/test/fiddle with physics -- and reference tutorials -- as needed. 
-* 11:00:   (Break)
+* 11:10:   (Break)
 
 
 
