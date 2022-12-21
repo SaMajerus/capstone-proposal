@@ -139,8 +139,10 @@
 
 * 14:20:   Resuming work. 
 * 14:35:   Issue I came across earlier (around lunchtime) is fixed.  (The Cube/Floor is now a Static object.)  
-* 14:55:   Investigating multitude of errors from 'TEST.cs' file. 
-
+* 14:55:   Investigating multitude of errors from 'TEST.cs' file.
+* 15:00:   Fixing errors, making changes to files as needed. 
+* 16:10:   Committing and pushing latest refactorings of Gun.cs, et al. (More of those to come.)
+* 
 
 
 
