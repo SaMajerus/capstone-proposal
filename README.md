@@ -142,6 +142,7 @@
 * 14:55:   Investigating multitude of errors from 'TEST.cs' file.
 * 15:00:   Fixing errors, making changes to files as needed. 
 * 16:10:   Committing and pushing latest refactorings of Gun.cs, et al. (More of those to come.) 
+* 16:30:   Investigating if particles from a particle system can exert Force on a GameObject.  (Also, how to link a Callback function(?) to stopping the particle simulation -- in other words, toggling it On/Off.)
 <br><br>
 
 
