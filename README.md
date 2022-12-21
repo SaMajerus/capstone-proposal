@@ -157,8 +157,8 @@
   - [https://www.youtube.com/watch?v=THnivyG0Mvo](Shooting with Raycasts - Unity Tutorial)
   - [https://www.youtube.com/watch?v=4HpC--2iowE](THIRD PERSON MOVEMENT in Unity)
 
-* 10:00:    Following along with the '1st-person Movement' tutorial in Editor.  (For science) 
-* 10/11:__:   
+* 10:00:   Following along with the '1st-person Movement' tutorial in Editor.  (For science) 
+* 10:50:   Refactoring scripts/properties/etc carried over from the C# Team Week project.  (I've also stopped watching the tutorial -- probably won't implement that approach for MVP.) 
 
 
 
