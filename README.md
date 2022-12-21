@@ -148,7 +148,7 @@
 
 
 ### Wednesday, 12/21
-* 8:15:   Researching and watching Unity tutorials relevant to the work I expect to be doing today. (Links listed below [in order of discovery; first two are from yesterday].) 
+* 8:15:   Researching and watching Unity tutorials relevant to the work I expect to be doing today. (Links listed below in order of discovery [first two are from yesterday].) 
   - [https://www.youtube.com/watch?v=7LVOeNalTFA](How to Create Physics in Unity | Rigidbody and Colliders in Unity) 
   - [https://www.youtube.com/watch?v=dLYTwDQmjdo](Unity3D Physics - Rigidbodies, Colliders, Triggers) 
   - [https://www.youtube.com/watch?v=FEA1wTMJAR0](Everything to know about the Particle System) 
