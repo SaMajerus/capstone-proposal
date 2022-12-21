@@ -162,8 +162,8 @@
 
 * 11:40:   (Break)
 * 13:15:   Resuming work on refactoring.  (See entry at 1050 for more info) 
-* 13/14:__:   
-
+* 15:40:   (Break)
+* 15:50:   __
 
 
 
