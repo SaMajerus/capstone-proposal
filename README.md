@@ -160,7 +160,7 @@
 * 10:00:   Following along with the '1st-person Movement' tutorial in Editor.  (For science) 
 * 10:50:   Refactoring scripts/properties/etc carried over from the C# Team Week project.  (I've also stopped watching the tutorial -- probably won't implement that approach for MVP.) 
 
-* 11:35:   (Break)
+* 11:40:   (Break)
 
 
 
