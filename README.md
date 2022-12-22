@@ -164,7 +164,20 @@
 * 13:15:   Resuming work on refactoring.  (See entry at 1050 for more info) 
 * 15:40:   (Break)
 * 15:55:   Resuming. 
+* 16:45:   Saving work and logging out of Epicenter. 
+<br><br>
 
+
+
+### Thursday, 12/21
+* 
+* 
+<br><br>
+
+
+
+### Friday, 12/22
+* 
 
 
 
