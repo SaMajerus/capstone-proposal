@@ -178,7 +178,8 @@
 ### Thursday, 12/21
 * 8:40:   Recreating gameplay Scene.
 * 8:55:   Working on implementing projectile/particle-system physics so the Blower can blow/launch the Leaf object. 
-* 9:__:   
+  - 9:00:   Adding Leaf prefab under a different name -- 'Leaf_demo' -- under the 'Assets/Prefabs/' directory. (Replaced the default prefab (from the Simple Nature pack) in the Scene hierarchy with this. Made sure that both the preset Position and Scale values are saved as part of the Prefab.)
+  - 9/10:__:   
 
 <br><br>
 
