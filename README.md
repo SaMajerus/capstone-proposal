@@ -179,10 +179,10 @@
 * 8:40:   Recreating gameplay Scene.
 * 8:55:   Working on implementing projectile/particle-system physics so the Blower can blow/launch the Leaf object. 
   - 9:00:   Adding Leaf prefab under a different name -- 'Leaf_demo' -- under the 'Assets/Prefabs/' directory. (Replaced the default prefab (from the Simple Nature pack) in the Scene hierarchy with this. Made sure that both the preset Position and Scale values are saved as part of the Prefab.)
-  - 10:15:   (Break to get breakfast)
+  - 10:15:   [Break to get breakfast]
   - 10:35:   Review how this statement from the base project works, and research how I can best refactor it for my 'Idle' function (Blower.cs, Ln 119):  'yield return new WaitForSeconds(reloadTime)'. 
   - 11:00:   Beginning research on the 'yield' keyword in earnest -- (no one from the C# Team-Week project remembers how the 'yield' keyword works in a return statement).    Also researching how to script (if needed) the physics interaction between the Blower and Leaf objects. 
-  - 11:__:   
+  - 12/13:__:   
 
 <br><br>
 
