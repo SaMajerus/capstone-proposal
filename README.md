@@ -186,7 +186,8 @@
   - 13:00:   Testing aforementioned additions real quick before breaking for a quick lunch. 
 * 13:15:   [Break for quick lunch]. (Will continue trying to test afterwards.) 
 
-* 13:__:   
+* 13:20:   Continuing to try and get the Raycasting physics to work. 
+* 13:30:   Joining Google Meet for Capstone Presentations. (Will continue to work on this in background, here and there.) 
 
 <br><br>
 
