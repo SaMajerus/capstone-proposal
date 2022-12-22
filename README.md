@@ -188,6 +188,9 @@
 
 * 13:20:   Continuing to try and get the Raycasting physics to work. 
 * 13:30:   Joining Google Meet for Capstone Presentations. (Will continue to work on this in background, here and there.) 
+* 15:00:   Idea for future exploration -- shoot an invisible projectile object at target. (Have projectile despawn after delivering Force)
+* 15:10:   Just discovered that the Physics were not being applied because the Blower object was not itself a Prefab in the Player Prefab. (Physics are now applied.. except the player moves instead of the leaf (or something)...) 
+* 15:20:   Created build folder for initial (albeit very-WIP) iteration of game. 
 
 <br><br>
 
