@@ -177,7 +177,8 @@
 
 ### Thursday, 12/21
 * 8:40:   Recreating gameplay Scene.
-* 
+* 8:55:   Working on implementing projectile/particle-system physics so the Blower can blow/launch the Leaf object. 
+* 9:__:   
 
 <br><br>
 
