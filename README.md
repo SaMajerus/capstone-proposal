@@ -165,6 +165,7 @@
 * 15:40:   (Break)
 * 15:55:   Resuming. 
 * 16:45:   Saving work and logging out of Epicenter. 
+* 21:00:   Opening Unity project to compile the C# scripts (and thus automatically change the associated '.cs.meta' script files), followed by pushing those changes to GitHub. 
 <br><br>
 
 
