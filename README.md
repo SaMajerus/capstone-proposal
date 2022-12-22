@@ -183,7 +183,7 @@
   - 10:35:   Review how this statement from the base project works, and research how I can best refactor it for my 'Idle' function (Blower.cs, Ln 119):  'yield return new WaitForSeconds(reloadTime)'. 
   - 11:00:   Beginning research on the 'yield' keyword in earnest -- (no one from the C# Team-Week project remembers how the 'yield' keyword works in a return statement).    Also researching how to script (if needed) the physics interaction between the Blower and Leaf objects. 
   - 12:50:   Adds Raycast physics for blower. (Guided by the top help-answer found here:  https://answers.unity.com/questions/1027665/need-help-applying-force-to-objects-hit-by-raycast.html .) 
-  - 12:55:   [Break for quick lunch]. (Will try testing the aforementioned additions afterwards.) 
+  - 13:00:   [Break for quick lunch]. (Will test the aforementioned additions afterwards.) 
   
 
 <br><br>
