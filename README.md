@@ -184,9 +184,9 @@
   - 11:00:   Beginning research on the 'yield' keyword in earnest -- (no one from the C# Team-Week project remembers how the 'yield' keyword works in a return statement).    Also researching how to script (if needed) the physics interaction between the Blower and Leaf objects. 
   - 12:50:   Adds Raycast physics for blower. (Guided by the top help-answer found here:  https://answers.unity.com/questions/1027665/need-help-applying-force-to-objects-hit-by-raycast.html .) 
   - 13:00:   Testing aforementioned additions real quick before breaking for a quick lunch. 
-* 13:10:   [Break for quick lunch]. (Will continue trying to test afterwards.) 
+* 13:15:   [Break for quick lunch]. (Will continue trying to test afterwards.) 
 
-* 13:__:     
+* 13:__:   
 
 <br><br>
 
