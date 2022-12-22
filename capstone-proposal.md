@@ -8,8 +8,8 @@ The player can get an idea for how leaf-blowing works, so that the learning curv
 
 #### List the absolute minimum features the project requires to meet this purpose or goal: 
 * Working leafblower physics -- can blow objects around. 
+  - Player can use "Leaf-Blower" on objects, and have those objects respond accordingly with some realism (e.g. simple physics) 
 * Player can move around. 
-* Player can use "Leaf-Blower" on objects, and have those objects respond accordingly with some realism (e.g. simple physics) 
 
 
 #### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific. 
