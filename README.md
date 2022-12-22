@@ -165,7 +165,10 @@
 * 15:40:   (Break)
 * 15:55:   Resuming. 
 * 16:45:   Saving work and logging out of Epicenter. 
-* 21:00:   Opening Unity project to compile the C# scripts (and thus automatically change the associated '.cs.meta' script files), followed by pushing those changes to GitHub. 
+* 21:00:   Opening Unity project to compile the C# scripts (and thus automatically change the associated '.cs.meta' script files). 
+* 21:12:   Fixing compilation errors reported by Unity Editor (opened in Safe Mode), then pushing all changes to GitHub. 
+* 21:35:   Submitting bug report after Unity Editor crashed in Safe Mode (while it was attempting to restore Scenes? -- "Reload Script Assemblies" got done, but weren't saved automatically due to the crash occurring during that process, potentially). 
+* 21:50:   Push the Script file changes to GitHub. (Continuing to diagnose/attempt to fix it.) 
 <br><br>
 
 
