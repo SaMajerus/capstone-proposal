@@ -176,8 +176,9 @@
 
 
 ### Thursday, 12/21
+* 8:40:   Recreating gameplay Scene.
 * 
-* 
+
 <br><br>
 
 
