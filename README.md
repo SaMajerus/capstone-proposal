@@ -169,6 +169,8 @@
 * 21:12:   Fixing compilation errors reported by Unity Editor (opened in Safe Mode), then pushing all changes to GitHub. 
 * 21:35:   Submitting bug report after Unity Editor crashed in Safe Mode (while it was attempting to restore Scenes? -- "Reload Script Assemblies" got done, but weren't saved automatically due to the crash occurring during that process, potentially). 
 * 21:50:   Push the Script file changes to GitHub. (Continuing to diagnose/attempt to fix it.) 
+* 22:20:   Skylan suggested moving the Scene [that I last had open] out of the project's directories, then trying to open the Editor after that. (If it works, I'll just have to recreate the scene.)
+* 22:35:   It worked!  Pushing all changes to GitHub, then calling it for the night. 
 <br><br>
 
 
