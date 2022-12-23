@@ -213,7 +213,7 @@ fatal: the remote end hung up unexpectedly".
   - Note-to-Self: apparently, support for an object with a non-Kinematic 'Rigidbody' component & a non-Convex 'Mesh Collider' component ended after Unity 5. 
 * 11:55:   (Lunch break)
 
-* 12/13:__:   Continuing "Research character movement using Rigidbody approach" task. 
+* 13:30:   Continuing "Research character movement using Rigidbody approach" task. 
 
 
 
