@@ -208,7 +208,7 @@ fatal: the remote end hung up unexpectedly".
   - Link to article/page that provided this solution:   https://gist.github.com/CrookedNumber/8964442 
 * 10:00:   Re-committing the one [under normal conditions] non-problematic commit for the Unity project. (Contains two copied READMEs, each from one of my other projects, so that I can craft a suitable README for 'Leaf-blowing-Sim'.) 
 * 10:20:   (Break to get breakfast proper) 
-* 10:30:   Continuing "Research character movement using Rigidbody approach" task. 
+* 11:00:   Continuing "Research character movement using Rigidbody approach" task. 
 
 
 
