@@ -149,13 +149,13 @@
 
 ### Wednesday, 12/21
 * 8:15:   Researching and watching Unity tutorials relevant to the work I expect to be doing today. (Links listed below in order of discovery [first two are from yesterday].) 
-  - [https://www.youtube.com/watch?v=7LVOeNalTFA](How to Create Physics in Unity | Rigidbody and Colliders in Unity) 
-  - [https://www.youtube.com/watch?v=dLYTwDQmjdo](Unity3D Physics - Rigidbodies, Colliders, Triggers) 
-  - [https://www.youtube.com/watch?v=FEA1wTMJAR0](Everything to know about the Particle System) 
-  <!-- - [https://www.youtube.com/watch?v=yMqefz8XNC4](Unity Shortcuts you NEED to know!) -->
-  - [https://www.youtube.com/watch?v=_QajrabyTJc](FIRST PERSON MOVEMENT in Unity - FPS Controller)
-  - [https://www.youtube.com/watch?v=THnivyG0Mvo](Shooting with Raycasts - Unity Tutorial)
-  - [https://www.youtube.com/watch?v=4HpC--2iowE](THIRD PERSON MOVEMENT in Unity)
+  - [How to Create Physics in Unity | Rigidbody and Colliders in Unity](https://www.youtube.com/watch?v=7LVOeNalTFA) 
+  - [Unity3D Physics - Rigidbodies, Colliders, Triggers](https://www.youtube.com/watch?v=dLYTwDQmjdo) 
+  - [Everything to know about the Particle System](https://www.youtube.com/watch?v=FEA1wTMJAR0) 
+  <!-- - [Unity Shortcuts you NEED to know!](https://www.youtube.com/watch?v=yMqefz8XNC4) -->
+  - [FIRST PERSON MOVEMENT in Unity - FPS Controller](https://www.youtube.com/watch?v=_QajrabyTJc)
+  - [Shooting with Raycasts - Unity Tutorial](https://www.youtube.com/watch?v=THnivyG0Mvo)
+  - [THIRD PERSON MOVEMENT in Unity](https://www.youtube.com/watch?v=4HpC--2iowE)
 
 * 10:00:   Following along with the '1st-person Movement' tutorial in Editor.  (For science) 
 * 10:50:   Refactoring scripts/properties/etc carried over from the C# Team Week project.  (I've also stopped watching the tutorial -- probably won't implement that approach for MVP.) 
@@ -175,7 +175,7 @@
 
 
 
-### Thursday, 12/21
+### Thursday, 12/22
 * 8:40:   Recreating gameplay Scene.
 * 8:55:   Working on implementing projectile/particle-system physics so the Blower can blow/launch the Leaf object. 
   - 9:00:   Adding Leaf prefab under a different name -- 'Leaf_demo' -- under the 'Assets/Prefabs/' directory. (Replaced the default prefab (from the Simple Nature pack) in the Scene hierarchy with this. Made sure that both the preset Position and Scale values are saved as part of the Prefab.)
@@ -196,8 +196,15 @@
 
 
 
-### Friday, 12/22
-* 
+### Friday, 12/23
+* 9:25:   Still can't push build folder to GitHub without getting the following (at 'Writing [ objects ] = 76%):  "error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+send-pack: unexpected disconnect while reading sideband packet
+Writing objects: 100% (183/183), 174.41 MiB | 9.74 MiB/s, done.
+Total 183 (delta 66), reused 0 (delta 0), pack-reused 0
+fatal: the remote end hung up unexpectedly". 
+
+* 9:30:   Researching character movement using Rigidbody approach. (If I can at least get the character's movement inputs to work properly, then I can take that one item off my plate.) 
+* 9/10__:   
 
 
 
