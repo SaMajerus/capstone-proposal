@@ -211,7 +211,9 @@ fatal: the remote end hung up unexpectedly".
 * 11:10:   Continuing "Research character movement using Rigidbody approach" task. 
 * 11:20:   Messing with Leaf prefab's scale, positioning, Physics components (settings for Rigidbody, Mesh Collider). 
   - Note-to-Self: apparently, support for an object with a non-Kinematic 'Rigidbody' component & a non-Convex 'Mesh Collider' component ended after Unity 5. 
-* 11:55:   Continuing "Research character movement using Rigidbody approach" task. 
+* 11:55:   (Lunch break)
+
+* 12/13:__:   Continuing "Research character movement using Rigidbody approach" task. 
 
 
 
