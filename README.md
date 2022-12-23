@@ -214,6 +214,8 @@ fatal: the remote end hung up unexpectedly".
 * 11:55:   (Lunch break)
 
 * 13:30:   Continuing "Research character movement using Rigidbody approach" task. 
+  - Source:  https://www.youtube.com/watch?v=b1uoLBp2I1w 
+* 14/15:__:   
 
 
 
