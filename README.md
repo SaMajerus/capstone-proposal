@@ -215,7 +215,7 @@ fatal: the remote end hung up unexpectedly".
 
 * 13:30:   Continuing "Research character movement using Rigidbody approach" task. 
   - Source:  https://www.youtube.com/watch?v=b1uoLBp2I1w 
-* 14:55:   Applying a Character Controller approach for character movement. (Since this is essentially an FPS after a fashion, and my character's body doesn't need to interact with other objects directly.)  [Same source as before]
+* 14:55:   Applying Rigidbody approach to character movement. 
 <!-- * 15/16:__:   Researching/applying Raycasting for Blower [that hopefully works]. 
   - Source:   https://www.youtube.com/watch?v=THnivyG0Mvo  -->
 
