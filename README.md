@@ -206,9 +206,9 @@ fatal: the remote end hung up unexpectedly".
 * 9:30:   Researching character movement using Rigidbody approach. (If I can at least get the character's movement inputs to work properly, then I can take that one item off my plate.) 
 * 9:55:   Removed the last 5 commits (4 of which were problematic and caused failed Pushes to GitHub in all 5 cases) from the Leaf-blowing-Sim project's log. (Used the command 'git reset --hard HEAD~5'.)
   - Link to article/page that provided this solution:   https://gist.github.com/CrookedNumber/8964442 
-
 * 10:00:   Re-committing the one [under normal conditions] non-problematic commit for the Unity project. (Contains two copied READMEs, each from one of my other projects, so that I can craft a suitable README for 'Leaf-blowing-Sim'.) 
-* 10:10:   Continuing "Research character movement using Rigidbody approach" task.  
+* 10:20:   (Break to get breakfast proper) 
+* 10:30:   Continuing "Research character movement using Rigidbody approach" task. 
 
 
 
