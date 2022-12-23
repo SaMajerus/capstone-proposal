@@ -209,7 +209,9 @@ fatal: the remote end hung up unexpectedly".
 * 10:00:   Re-committing the one [under normal conditions] non-problematic commit for the Unity project. (Contains two copied READMEs, each from one of my other projects, so that I can craft a suitable README for 'Leaf-blowing-Sim'.) 
 * 10:20:   (Break to get breakfast proper) 
 * 11:10:   Continuing "Research character movement using Rigidbody approach" task. 
-
+* 11:20:   Messing with Leaf prefab's scale, positioning, Physics components (settings for Rigidbody, Mesh Collider). 
+  - Note-to-Self: apparently, support for an object with a non-Kinematic 'Rigidbody' component & a non-Convex 'Mesh Collider' component ended after Unity 5. 
+* 11:55:   Continuing "Research character movement using Rigidbody approach" task. 
 
 
 
